@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "9M6OcBztT5OjpLQape31Mf",
+    "name" : "Mapping1",
+    "type" : "DTEMPLATE",
+    "path" : "/Explore/TestProject1",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O17000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
