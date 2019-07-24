@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "60NO3vCkvd3ewtL59D9fSs",
-    "name" : "TestProject1-v3",
+    "name" : "TestProject1-v4",
     "type" : "Project",
     "metadata" : {
       "modelVersion" : {
@@ -11,7 +11,7 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "added folder1 and mapping4",
+        "description" : "",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
