@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "gTun0ZgZJs8dREmf58lfM7",
+    "name" : "Mapping9",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O1700000000000C"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Adding Mapping 9 to project 6",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
