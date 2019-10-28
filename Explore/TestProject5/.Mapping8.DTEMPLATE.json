@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "kfB6RX8aNCidVRxZJAJtSF",
+    "id" : "6WrodOjfb3lfW2cnZYeG8p",
     "name" : "Mapping8",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001O1700000000000B"
+        "repoHandle" : "01001O1700000000000D"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,10 +18,30 @@
       "additionalInfo" : {
         "description" : "Adding Mapping 8 to Project 5",
         "contentType" : "JSON",
-        "documentState" : "INVALID"
+        "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "objectRefs" : [ ]
+  "objectRefs" : [ {
+    "id" : "dDED9HgeZkXeYeofBI2wYO",
+    "name" : "SimpleConnection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O0B000000000005"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
 }
