@@ -55,10 +55,7 @@
       "repoInfo" : {
         "repoHandle" : "01001O1700000000000H"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Another mapping8",
         "contentType" : "JSON",
