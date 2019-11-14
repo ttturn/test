@@ -44,8 +44,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "0FTUvFy8D68jySpXOUvFuJ",
-    "name" : "Mapping3",
+    "id" : "5hQ1TlMc26plaxL1sDgkqH",
+    "name" : "Mapping1",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001O1700000000000J"
+        "repoHandle" : "01001O1700000000000I"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
